@@ -7,5 +7,5 @@ cd Adafruit_Python_DHT
 sudo python setup.py install
 sudo python3 setup.py install
 
-sudo pip intall paho-mqtt
+sudo pip install paho-mqtt
 sudo pip3 install paho-mqtt
